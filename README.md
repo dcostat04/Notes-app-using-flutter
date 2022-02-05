@@ -1,4 +1,4 @@
-# mcl_trevor2
+# Notes-app-using-flutter
 
 A new Flutter application.
 
